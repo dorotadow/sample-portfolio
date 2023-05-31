@@ -9,6 +9,7 @@ body
     width:1000px;
     margin-left:auto;
     margin-right:auto;
+    margin-top: 100px;
 }
 .rectangle
 {
@@ -42,7 +43,10 @@ body
     float:left;
     margin:10px;
     background-color:blue;
-    height:150px;
+    height:120px;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
 }
 .tile2
 {
@@ -50,7 +54,10 @@ body
     float:left;
     margin:10px;
     background-color:grey;
-    height:150px;  
+    height:120px;  
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
 }
 .tile3
 {
@@ -58,7 +65,10 @@ body
     float:left;
     margin:10px;
     background-color:green;
-    height:150px;
+    height:120px;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
 }
 .tile4
 {
@@ -66,7 +76,25 @@ body
     float:left;
     margin:10px;
     background-color:orangered;
-    height:150px;
+    height:120px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    line-height:150% ;
+}
+.title
+{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.description
+{
+    text-indent: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 150%;
+    font-size: 20px;
 }
 .tile5
 {
@@ -82,7 +110,8 @@ body
     float:left;
     margin:10px;
     background-color:#d94348;
-    height:150px;
+    height:110px;
+    padding-top: 40px;
 }
 .fb
 {
@@ -90,7 +119,8 @@ body
     float:left;
     margin:10px;
     background-color:#4668b3;
-    height:150px;
+    height:110px;
+    padding-top: 40px;
 }
 .ln
 {
@@ -98,7 +128,8 @@ body
     float:left;
     margin:10px;
     background-color: #d95333;
-    height:150px;
+    height:110px;
+    padding-top: 40px;
 }
 .tw
 {
@@ -106,5 +137,13 @@ body
     float:left;
     margin:10px;
     background-color:#3095d3;
-    height:150px;
+    height:110px;
+    padding-top: 40px;
+}
+.socialmedia
+{
+   font-size: 50px;
+   text-align: center;
+  
+   
 }
