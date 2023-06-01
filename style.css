@@ -13,7 +13,7 @@ body
 }
 .rectangle
 {
-    width:960px;   
+    width:9600px;   
     text-align:center; 
 }
 
@@ -22,7 +22,8 @@ body
     width:600px;
     font-size:50px;
     float:left;
-    text-align:center;
+    text-align:left;
+   
 }
 #clock
 {
@@ -48,6 +49,10 @@ body
     text-align: center;
     padding-top: 30px;
 }
+.tile1:hover
+{
+    background-color: #0000ee;
+}
 .tile2
 {
     width:210px;
@@ -59,6 +64,10 @@ body
     text-align: center;
     padding-top: 30px;
 }
+.tile2:hover
+{
+    background-color: #707070;
+}
 .tile3
 {
     width:210px;
@@ -69,6 +78,10 @@ body
     font-size: 25px;
     text-align: center;
     padding-top: 30px;
+}
+.tile3:hover
+{
+    background-color: #007000;
 }
 .tile4
 {
@@ -113,6 +126,10 @@ body
     height:110px;
     padding-top: 40px;
 }
+.yt:hover
+{
+    background-color: #c83237;
+}
 .fb
 {
     width:95px;
@@ -121,6 +138,10 @@ body
     background-color:#4668b3;
     height:110px;
     padding-top: 40px;
+}
+.fb:hover
+{
+    background-color: #3557a2;
 }
 .ln
 {
@@ -131,6 +152,10 @@ body
     height:110px;
     padding-top: 40px;
 }
+.ln:hover
+{
+    background-color: #c85222;
+}
 .tw
 {
     width:95px;
@@ -140,10 +165,17 @@ body
     height:110px;
     padding-top: 40px;
 }
+.tw:hover
+{
+    background-color: #2084c2;
+}
 .socialmedia
 {
    font-size: 50px;
-   text-align: center;
-  
-   
+   text-align: center;   
+}
+.logo1
+{
+    color: beige;
+    text-decoration: none;
 }
