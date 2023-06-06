@@ -13,41 +13,47 @@ body
 }
 .rectangle
 {
-    width:9600px;   
+    width:960px;   
     text-align:center; 
+     margin: 20px;
 }
 
 #logo
 {
-    width:600px;
-    font-size:50px;
-    float:left;
-    text-align:left;
-   
+    width:500px;
+    font-size:40px;
+    float:left; 
+    padding: 10px;
+    text-align: left;
 }
 #clock
 {
-    font-size:50px;
+    
+    font-size:40px;
     float:left;
-    text-align:center;
+   padding: 10px;
+   text-align: center;
+
+
+    
 }
 .square
 {
-    margin:10px;
-    width:460px;
+   
+    width:500px;
     float:left;
    
 }
 .tile1
 {
-    width:210px;
+    width:230px;
     float:left;
     margin:10px;
     background-color:blue;
-    height:120px;
+    height:122px;
     font-size: 25px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 .tile1:hover
 {
@@ -55,14 +61,14 @@ body
 }
 .tile2
 {
-    width:210px;
+    width:230px;
     float:left;
     margin:10px;
     background-color:grey;
-    height:120px;  
+    height:122px;  
     font-size: 25px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 .tile2:hover
 {
@@ -70,14 +76,14 @@ body
 }
 .tile3
 {
-    width:210px;
+    width:230px;
     float:left;
     margin:10px;
     background-color:green;
-    height:120px;
+    height:122px;
     font-size: 25px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 .tile3:hover
 {
@@ -85,11 +91,11 @@ body
 }
 .tile4
 {
-    width:440px;
+    width:480px;
     float:left;
     margin:10px;
     background-color:orangered;
-    height:120px;
+    height:142px;
     font-size: 20px;
     text-align: center;
     padding-top: 30px;
@@ -111,20 +117,20 @@ body
 }
 .tile5
 {
-    width:440px;
+    width:480px;
     float:left;
     margin:10px;
     background-color:grey;
-    height:320px;
+    height:364px;
 }
 .yt
 {
-    width:95px;
+    width:105px;
     float:left;
     margin:10px;
     background-color:#d94348;
-    height:110px;
-    padding-top: 40px;
+    height:122px;
+    padding-top: 50px;
 }
 .yt:hover
 {
@@ -132,12 +138,12 @@ body
 }
 .fb
 {
-    width:95px;
+    width:105px;
     float:left;
     margin:10px;
     background-color:#4668b3;
-    height:110px;
-    padding-top: 40px;
+    height:122px;
+    padding-top: 50px;
 }
 .fb:hover
 {
@@ -145,12 +151,12 @@ body
 }
 .ln
 {
-    width:95px;
+    width:105px;
     float:left;
     margin:10px;
     background-color: #d95333;
-    height:110px;
-    padding-top: 40px;
+    height:122px;
+    padding-top: 50px;
 }
 .ln:hover
 {
@@ -158,12 +164,12 @@ body
 }
 .tw
 {
-    width:95px;
+    width:105px;
     float:left;
     margin:10px;
     background-color:#3095d3;
-    height:110px;
-    padding-top: 40px;
+    height:122px;
+    padding-top: 50px;
 }
 .tw:hover
 {
