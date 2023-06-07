@@ -19,7 +19,7 @@
             var second = today.getSeconds();
             if(second<10)second = "0"+second;
 
-            document.getElementById("clock").innerHTML = day+"/"+month+"/"+year+"|"+hour+":"+minute+":"+second;
+            document.getElementById("clock").innerHTML = day+"/"+month+"/"+year+" "+"|"+" "+hour+":"+minute+":"+second;
 
             setTimeout("countdown();");
        }
