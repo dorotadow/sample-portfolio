@@ -11,5 +11,9 @@ The project is under development.
 </ul>
 </br>
 <h3>Software required to run project:</h3>
+<ul>
+    <li>Visual Studio Code 2022</li>
+</ul>
+</br>
 
 ![photo](ph.jpg)
