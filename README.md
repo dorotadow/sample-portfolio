@@ -14,6 +14,5 @@ The project is under development.
 <ul>
     <li>Visual Studio Code 2022</li>
 </ul>
-</br>
 
 ![photo](ph.jpg)
